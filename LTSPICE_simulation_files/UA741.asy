@@ -1,0 +1,32 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -224 0 -224 -64
+LINE Normal -160 -32 -224 0
+LINE Normal -224 -64 -160 -32
+LINE Normal -213 -21 -213 -12
+LINE Normal -209 -17 -217 -17
+LINE Normal -210 -47 -218 -47
+LINE Normal -180 -56 -180 -47
+LINE Normal -176 -52 -184 -52
+LINE Normal -192 -64 -192 -48
+LINE Normal -192 0 -192 -16
+LINE Normal -176 -10 -184 -10
+WINDOW 0 -176 -64 Left 1
+WINDOW 3 -176 -16 Left 1
+SYMATTR Prefix X
+SYMATTR Value UA741
+SYMATTR ModelFile LTSPICE_model_files\UA741.301
+PIN -224 -16 NONE 4
+PINATTR PinName +
+PINATTR SpiceOrder 1
+PIN -224 -48 NONE 8
+PINATTR PinName 2
+PINATTR SpiceOrder 2
+PIN -192 -64 NONE 8
+PINATTR PinName +
+PINATTR SpiceOrder 3
+PIN -192 0 NONE 8
+PINATTR SpiceOrder 4
+PIN -160 -32 NONE 8
+PINATTR PinName 5
+PINATTR SpiceOrder 5
